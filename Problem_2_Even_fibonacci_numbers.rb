@@ -1,0 +1,13 @@
+a = 1
+b = 1
+total = 0
+while a <= 4000000
+  if a % 2 == 0
+    total += a
+    a = b
+    b = total
+  end
+ puts total
+end
+
+
