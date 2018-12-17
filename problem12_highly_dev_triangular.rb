@@ -1,6 +1,6 @@
 #slow with basic methods. Need to be recoded
 
-a = 12375
+a = 1
 final = 1
 dev = 1
 temp_num = 0
