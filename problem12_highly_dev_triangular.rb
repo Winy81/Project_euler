@@ -1,7 +1,3 @@
-#slow with basic methods. Need to be recoded
-
-a = 1
-final = 1
 dev = 1
 temp_num = 0
 temp_array = []
@@ -25,4 +21,8 @@ p (a - 1)
 puts
 p "The answer is:"
 p final
+#slow with basic methods. Need to be recoded
+
+a = 1
+final = 1
 
